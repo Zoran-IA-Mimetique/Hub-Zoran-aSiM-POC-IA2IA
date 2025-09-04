@@ -6,12 +6,12 @@
 [![DOI Public V1](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299)
 [![DOI Aegis Layer](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014)
 # Hub-Zoran-aSiM-POC-IA2IA
+
 Bienvenue dans le **Hub Époque** de **Zoran aSiM (Artificial Super-Intelligence Mimétique)**.  
 Ce hub rassemble et indexe **tous les POC IA↔IA** liés à Zoran, organisés dans une structure stable et pérenne.
 
 
 Hub Zoran-aSiM-POC-IA2IA : index universel des POC IA↔IA, parser éthique initial et 1000 démos mémoire fractale, glyphiques, injecteurs.
-# 🌐 Zoran-aSiM-POC-IA — Hub Époque
 
 - **POC #000 : Parser Universel** → point d’ancrage pédagogique.  
 - **POC #001 → #1000 :** expériences, démos, preuves, injecteurs.  
