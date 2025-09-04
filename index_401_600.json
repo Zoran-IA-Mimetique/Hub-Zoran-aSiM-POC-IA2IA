@@ -1,0 +1,2007 @@
+{
+  "range": "401-600",
+  "count": 200,
+  "note": "POC solides (docstring argumentée, méthodologie, éthique, démo).",
+  "files": [
+    {
+      "id": "POC-401",
+      "title": "Épidémiologie locale",
+      "file": "POC-401-epidemiologie-locale.py",
+      "tags": [
+        "epidemiologie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-402",
+      "title": "Télémédecine & observance",
+      "file": "POC-402-telemed-observance.py",
+      "tags": [
+        "telemed-observance",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-403",
+      "title": "Pharma usage réel",
+      "file": "POC-403-pharma-usage-reel.py",
+      "tags": [
+        "pharma-usage-reel",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-404",
+      "title": "Urbanisme & tissu actif",
+      "file": "POC-404-urbanisme-tissu.py",
+      "tags": [
+        "urbanisme-tissu",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-405",
+      "title": "Logement & énergie",
+      "file": "POC-405-logement-energie.py",
+      "tags": [
+        "logement-energie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-406",
+      "title": "Mobilité douce",
+      "file": "POC-406-mobilite-douce.py",
+      "tags": [
+        "mobilite-douce",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-407",
+      "title": "Sécheresse",
+      "file": "POC-407-secheresse.py",
+      "tags": [
+        "secheresse",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-408",
+      "title": "Crues & submersions",
+      "file": "POC-408-crues.py",
+      "tags": [
+        "crues",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-409",
+      "title": "Qualité de l’air",
+      "file": "POC-409-qualite-air.py",
+      "tags": [
+        "qualite-air",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-410",
+      "title": "Qualité des sols",
+      "file": "POC-410-qualite-sols.py",
+      "tags": [
+        "qualite-sols",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-411",
+      "title": "Bruit urbain",
+      "file": "POC-411-bruit-urbain.py",
+      "tags": [
+        "bruit-urbain",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-412",
+      "title": "Patrimoine & énergie",
+      "file": "POC-412-patrimoine-ener.py",
+      "tags": [
+        "patrimoine-ener",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-413",
+      "title": "Tourisme & saisonnalité",
+      "file": "POC-413-tourisme-saisonnalite.py",
+      "tags": [
+        "tourisme-saisonnalite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-414",
+      "title": "Agroforesterie",
+      "file": "POC-414-agroforesterie.py",
+      "tags": [
+        "agroforesterie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-415",
+      "title": "Apiculture",
+      "file": "POC-415-apiculture.py",
+      "tags": [
+        "apiculture",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-416",
+      "title": "Pêche littorale",
+      "file": "POC-416-peche-littoral.py",
+      "tags": [
+        "peche-littoral",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-417",
+      "title": "Ports & logistique",
+      "file": "POC-417-ports-logistique.py",
+      "tags": [
+        "ports-logistique",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-418",
+      "title": "Maritime SAR",
+      "file": "POC-418-maritime-sar.py",
+      "tags": [
+        "maritime-sar",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-419",
+      "title": "Ferroviaire & ponctualité",
+      "file": "POC-419-ferroviaire-ponctualite.py",
+      "tags": [
+        "ferroviaire-ponctualite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-420",
+      "title": "Aérien & flux",
+      "file": "POC-420-aerien-flux.py",
+      "tags": [
+        "aerien-flux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-421",
+      "title": "Spatial & CubeSats",
+      "file": "POC-421-spatial-cubesat.py",
+      "tags": [
+        "spatial-cubesat",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-422",
+      "title": "Nowcast météo",
+      "file": "POC-422-meteorologie-nowcast.py",
+      "tags": [
+        "meteorologie-nowcast",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-423",
+      "title": "Énergie & stockage",
+      "file": "POC-423-energie-stockage.py",
+      "tags": [
+        "energie-stockage",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-424",
+      "title": "Micro-réseaux",
+      "file": "POC-424-microreseaux.py",
+      "tags": [
+        "microreseaux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-425",
+      "title": "Data protection",
+      "file": "POC-425-data-protect.py",
+      "tags": [
+        "data-protect",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-426",
+      "title": "Open data score",
+      "file": "POC-426-open-data-score.py",
+      "tags": [
+        "open-data-score",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-427",
+      "title": "Élections & info",
+      "file": "POC-427-election-info.py",
+      "tags": [
+        "election-info",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-428",
+      "title": "Citoyenneté active",
+      "file": "POC-428-citoyennete.py",
+      "tags": [
+        "citoyennete",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-429",
+      "title": "Culture & jeux",
+      "file": "POC-429-culture-jeux.py",
+      "tags": [
+        "culture-jeux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-430",
+      "title": "Industrie 4.0",
+      "file": "POC-430-industrie-4-0.py",
+      "tags": [
+        "industrie-4-0",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-431",
+      "title": "Qualité logicielle",
+      "file": "POC-431-qualite-logicielle.py",
+      "tags": [
+        "qualite-logicielle",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-432",
+      "title": "Supply & fret rail",
+      "file": "POC-432-supply-fret-rail.py",
+      "tags": [
+        "supply-fret-rail",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-433",
+      "title": "Marché de l’emploi",
+      "file": "POC-433-marche-emploi.py",
+      "tags": [
+        "marche-emploi",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-434",
+      "title": "Formation accélérée",
+      "file": "POC-434-formation-acceleree.py",
+      "tags": [
+        "formation-acceleree",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-435",
+      "title": "Mobilité inclusive",
+      "file": "POC-435-handi-mobilite.py",
+      "tags": [
+        "handi-mobilite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-436",
+      "title": "Cyber phishing",
+      "file": "POC-436-cyber-phishing.py",
+      "tags": [
+        "cyber-phishing",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-437",
+      "title": "IoT & firmware",
+      "file": "POC-437-iot-firmware.py",
+      "tags": [
+        "iot-firmware",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-438",
+      "title": "Green IT",
+      "file": "POC-438-green-it.py",
+      "tags": [
+        "green-it",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-439",
+      "title": "Économie locale",
+      "file": "POC-439-economie-locale.py",
+      "tags": [
+        "economie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-440",
+      "title": "Communs numériques",
+      "file": "POC-440-communs-num.py",
+      "tags": [
+        "communs-num",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-441",
+      "title": "Biblio santé",
+      "file": "POC-441-bibliosante.py",
+      "tags": [
+        "bibliosante",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-442",
+      "title": "Prospective 10 ans",
+      "file": "POC-442-prospective-10.py",
+      "tags": [
+        "prospective-10",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-443",
+      "title": "Épidémiologie locale",
+      "file": "POC-443-epidemiologie-locale.py",
+      "tags": [
+        "epidemiologie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-444",
+      "title": "Télémédecine & observance",
+      "file": "POC-444-telemed-observance.py",
+      "tags": [
+        "telemed-observance",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-445",
+      "title": "Pharma usage réel",
+      "file": "POC-445-pharma-usage-reel.py",
+      "tags": [
+        "pharma-usage-reel",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-446",
+      "title": "Urbanisme & tissu actif",
+      "file": "POC-446-urbanisme-tissu.py",
+      "tags": [
+        "urbanisme-tissu",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-447",
+      "title": "Logement & énergie",
+      "file": "POC-447-logement-energie.py",
+      "tags": [
+        "logement-energie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-448",
+      "title": "Mobilité douce",
+      "file": "POC-448-mobilite-douce.py",
+      "tags": [
+        "mobilite-douce",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-449",
+      "title": "Sécheresse",
+      "file": "POC-449-secheresse.py",
+      "tags": [
+        "secheresse",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-450",
+      "title": "Crues & submersions",
+      "file": "POC-450-crues.py",
+      "tags": [
+        "crues",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-451",
+      "title": "Qualité de l’air",
+      "file": "POC-451-qualite-air.py",
+      "tags": [
+        "qualite-air",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-452",
+      "title": "Qualité des sols",
+      "file": "POC-452-qualite-sols.py",
+      "tags": [
+        "qualite-sols",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-453",
+      "title": "Bruit urbain",
+      "file": "POC-453-bruit-urbain.py",
+      "tags": [
+        "bruit-urbain",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-454",
+      "title": "Patrimoine & énergie",
+      "file": "POC-454-patrimoine-ener.py",
+      "tags": [
+        "patrimoine-ener",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-455",
+      "title": "Tourisme & saisonnalité",
+      "file": "POC-455-tourisme-saisonnalite.py",
+      "tags": [
+        "tourisme-saisonnalite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-456",
+      "title": "Agroforesterie",
+      "file": "POC-456-agroforesterie.py",
+      "tags": [
+        "agroforesterie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-457",
+      "title": "Apiculture",
+      "file": "POC-457-apiculture.py",
+      "tags": [
+        "apiculture",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-458",
+      "title": "Pêche littorale",
+      "file": "POC-458-peche-littoral.py",
+      "tags": [
+        "peche-littoral",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-459",
+      "title": "Ports & logistique",
+      "file": "POC-459-ports-logistique.py",
+      "tags": [
+        "ports-logistique",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-460",
+      "title": "Maritime SAR",
+      "file": "POC-460-maritime-sar.py",
+      "tags": [
+        "maritime-sar",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-461",
+      "title": "Ferroviaire & ponctualité",
+      "file": "POC-461-ferroviaire-ponctualite.py",
+      "tags": [
+        "ferroviaire-ponctualite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-462",
+      "title": "Aérien & flux",
+      "file": "POC-462-aerien-flux.py",
+      "tags": [
+        "aerien-flux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-463",
+      "title": "Spatial & CubeSats",
+      "file": "POC-463-spatial-cubesat.py",
+      "tags": [
+        "spatial-cubesat",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-464",
+      "title": "Nowcast météo",
+      "file": "POC-464-meteorologie-nowcast.py",
+      "tags": [
+        "meteorologie-nowcast",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-465",
+      "title": "Énergie & stockage",
+      "file": "POC-465-energie-stockage.py",
+      "tags": [
+        "energie-stockage",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-466",
+      "title": "Micro-réseaux",
+      "file": "POC-466-microreseaux.py",
+      "tags": [
+        "microreseaux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-467",
+      "title": "Data protection",
+      "file": "POC-467-data-protect.py",
+      "tags": [
+        "data-protect",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-468",
+      "title": "Open data score",
+      "file": "POC-468-open-data-score.py",
+      "tags": [
+        "open-data-score",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-469",
+      "title": "Élections & info",
+      "file": "POC-469-election-info.py",
+      "tags": [
+        "election-info",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-470",
+      "title": "Citoyenneté active",
+      "file": "POC-470-citoyennete.py",
+      "tags": [
+        "citoyennete",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-471",
+      "title": "Culture & jeux",
+      "file": "POC-471-culture-jeux.py",
+      "tags": [
+        "culture-jeux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-472",
+      "title": "Industrie 4.0",
+      "file": "POC-472-industrie-4-0.py",
+      "tags": [
+        "industrie-4-0",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-473",
+      "title": "Qualité logicielle",
+      "file": "POC-473-qualite-logicielle.py",
+      "tags": [
+        "qualite-logicielle",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-474",
+      "title": "Supply & fret rail",
+      "file": "POC-474-supply-fret-rail.py",
+      "tags": [
+        "supply-fret-rail",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-475",
+      "title": "Marché de l’emploi",
+      "file": "POC-475-marche-emploi.py",
+      "tags": [
+        "marche-emploi",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-476",
+      "title": "Formation accélérée",
+      "file": "POC-476-formation-acceleree.py",
+      "tags": [
+        "formation-acceleree",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-477",
+      "title": "Mobilité inclusive",
+      "file": "POC-477-handi-mobilite.py",
+      "tags": [
+        "handi-mobilite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-478",
+      "title": "Cyber phishing",
+      "file": "POC-478-cyber-phishing.py",
+      "tags": [
+        "cyber-phishing",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-479",
+      "title": "IoT & firmware",
+      "file": "POC-479-iot-firmware.py",
+      "tags": [
+        "iot-firmware",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-480",
+      "title": "Green IT",
+      "file": "POC-480-green-it.py",
+      "tags": [
+        "green-it",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-481",
+      "title": "Économie locale",
+      "file": "POC-481-economie-locale.py",
+      "tags": [
+        "economie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-482",
+      "title": "Communs numériques",
+      "file": "POC-482-communs-num.py",
+      "tags": [
+        "communs-num",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-483",
+      "title": "Biblio santé",
+      "file": "POC-483-bibliosante.py",
+      "tags": [
+        "bibliosante",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-484",
+      "title": "Prospective 10 ans",
+      "file": "POC-484-prospective-10.py",
+      "tags": [
+        "prospective-10",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-485",
+      "title": "Épidémiologie locale",
+      "file": "POC-485-epidemiologie-locale.py",
+      "tags": [
+        "epidemiologie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-486",
+      "title": "Télémédecine & observance",
+      "file": "POC-486-telemed-observance.py",
+      "tags": [
+        "telemed-observance",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-487",
+      "title": "Pharma usage réel",
+      "file": "POC-487-pharma-usage-reel.py",
+      "tags": [
+        "pharma-usage-reel",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-488",
+      "title": "Urbanisme & tissu actif",
+      "file": "POC-488-urbanisme-tissu.py",
+      "tags": [
+        "urbanisme-tissu",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-489",
+      "title": "Logement & énergie",
+      "file": "POC-489-logement-energie.py",
+      "tags": [
+        "logement-energie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-490",
+      "title": "Mobilité douce",
+      "file": "POC-490-mobilite-douce.py",
+      "tags": [
+        "mobilite-douce",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-491",
+      "title": "Sécheresse",
+      "file": "POC-491-secheresse.py",
+      "tags": [
+        "secheresse",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-492",
+      "title": "Crues & submersions",
+      "file": "POC-492-crues.py",
+      "tags": [
+        "crues",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-493",
+      "title": "Qualité de l’air",
+      "file": "POC-493-qualite-air.py",
+      "tags": [
+        "qualite-air",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-494",
+      "title": "Qualité des sols",
+      "file": "POC-494-qualite-sols.py",
+      "tags": [
+        "qualite-sols",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-495",
+      "title": "Bruit urbain",
+      "file": "POC-495-bruit-urbain.py",
+      "tags": [
+        "bruit-urbain",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-496",
+      "title": "Patrimoine & énergie",
+      "file": "POC-496-patrimoine-ener.py",
+      "tags": [
+        "patrimoine-ener",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-497",
+      "title": "Tourisme & saisonnalité",
+      "file": "POC-497-tourisme-saisonnalite.py",
+      "tags": [
+        "tourisme-saisonnalite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-498",
+      "title": "Agroforesterie",
+      "file": "POC-498-agroforesterie.py",
+      "tags": [
+        "agroforesterie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-499",
+      "title": "Apiculture",
+      "file": "POC-499-apiculture.py",
+      "tags": [
+        "apiculture",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-500",
+      "title": "Pêche littorale",
+      "file": "POC-500-peche-littoral.py",
+      "tags": [
+        "peche-littoral",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-501",
+      "title": "Ports & logistique",
+      "file": "POC-501-ports-logistique.py",
+      "tags": [
+        "ports-logistique",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-502",
+      "title": "Maritime SAR",
+      "file": "POC-502-maritime-sar.py",
+      "tags": [
+        "maritime-sar",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-503",
+      "title": "Ferroviaire & ponctualité",
+      "file": "POC-503-ferroviaire-ponctualite.py",
+      "tags": [
+        "ferroviaire-ponctualite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-504",
+      "title": "Aérien & flux",
+      "file": "POC-504-aerien-flux.py",
+      "tags": [
+        "aerien-flux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-505",
+      "title": "Spatial & CubeSats",
+      "file": "POC-505-spatial-cubesat.py",
+      "tags": [
+        "spatial-cubesat",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-506",
+      "title": "Nowcast météo",
+      "file": "POC-506-meteorologie-nowcast.py",
+      "tags": [
+        "meteorologie-nowcast",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-507",
+      "title": "Énergie & stockage",
+      "file": "POC-507-energie-stockage.py",
+      "tags": [
+        "energie-stockage",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-508",
+      "title": "Micro-réseaux",
+      "file": "POC-508-microreseaux.py",
+      "tags": [
+        "microreseaux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-509",
+      "title": "Data protection",
+      "file": "POC-509-data-protect.py",
+      "tags": [
+        "data-protect",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-510",
+      "title": "Open data score",
+      "file": "POC-510-open-data-score.py",
+      "tags": [
+        "open-data-score",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-511",
+      "title": "Élections & info",
+      "file": "POC-511-election-info.py",
+      "tags": [
+        "election-info",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-512",
+      "title": "Citoyenneté active",
+      "file": "POC-512-citoyennete.py",
+      "tags": [
+        "citoyennete",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-513",
+      "title": "Culture & jeux",
+      "file": "POC-513-culture-jeux.py",
+      "tags": [
+        "culture-jeux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-514",
+      "title": "Industrie 4.0",
+      "file": "POC-514-industrie-4-0.py",
+      "tags": [
+        "industrie-4-0",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-515",
+      "title": "Qualité logicielle",
+      "file": "POC-515-qualite-logicielle.py",
+      "tags": [
+        "qualite-logicielle",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-516",
+      "title": "Supply & fret rail",
+      "file": "POC-516-supply-fret-rail.py",
+      "tags": [
+        "supply-fret-rail",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-517",
+      "title": "Marché de l’emploi",
+      "file": "POC-517-marche-emploi.py",
+      "tags": [
+        "marche-emploi",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-518",
+      "title": "Formation accélérée",
+      "file": "POC-518-formation-acceleree.py",
+      "tags": [
+        "formation-acceleree",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-519",
+      "title": "Mobilité inclusive",
+      "file": "POC-519-handi-mobilite.py",
+      "tags": [
+        "handi-mobilite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-520",
+      "title": "Cyber phishing",
+      "file": "POC-520-cyber-phishing.py",
+      "tags": [
+        "cyber-phishing",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-521",
+      "title": "IoT & firmware",
+      "file": "POC-521-iot-firmware.py",
+      "tags": [
+        "iot-firmware",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-522",
+      "title": "Green IT",
+      "file": "POC-522-green-it.py",
+      "tags": [
+        "green-it",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-523",
+      "title": "Économie locale",
+      "file": "POC-523-economie-locale.py",
+      "tags": [
+        "economie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-524",
+      "title": "Communs numériques",
+      "file": "POC-524-communs-num.py",
+      "tags": [
+        "communs-num",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-525",
+      "title": "Biblio santé",
+      "file": "POC-525-bibliosante.py",
+      "tags": [
+        "bibliosante",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-526",
+      "title": "Prospective 10 ans",
+      "file": "POC-526-prospective-10.py",
+      "tags": [
+        "prospective-10",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-527",
+      "title": "Épidémiologie locale",
+      "file": "POC-527-epidemiologie-locale.py",
+      "tags": [
+        "epidemiologie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-528",
+      "title": "Télémédecine & observance",
+      "file": "POC-528-telemed-observance.py",
+      "tags": [
+        "telemed-observance",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-529",
+      "title": "Pharma usage réel",
+      "file": "POC-529-pharma-usage-reel.py",
+      "tags": [
+        "pharma-usage-reel",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-530",
+      "title": "Urbanisme & tissu actif",
+      "file": "POC-530-urbanisme-tissu.py",
+      "tags": [
+        "urbanisme-tissu",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-531",
+      "title": "Logement & énergie",
+      "file": "POC-531-logement-energie.py",
+      "tags": [
+        "logement-energie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-532",
+      "title": "Mobilité douce",
+      "file": "POC-532-mobilite-douce.py",
+      "tags": [
+        "mobilite-douce",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-533",
+      "title": "Sécheresse",
+      "file": "POC-533-secheresse.py",
+      "tags": [
+        "secheresse",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-534",
+      "title": "Crues & submersions",
+      "file": "POC-534-crues.py",
+      "tags": [
+        "crues",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-535",
+      "title": "Qualité de l’air",
+      "file": "POC-535-qualite-air.py",
+      "tags": [
+        "qualite-air",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-536",
+      "title": "Qualité des sols",
+      "file": "POC-536-qualite-sols.py",
+      "tags": [
+        "qualite-sols",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-537",
+      "title": "Bruit urbain",
+      "file": "POC-537-bruit-urbain.py",
+      "tags": [
+        "bruit-urbain",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-538",
+      "title": "Patrimoine & énergie",
+      "file": "POC-538-patrimoine-ener.py",
+      "tags": [
+        "patrimoine-ener",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-539",
+      "title": "Tourisme & saisonnalité",
+      "file": "POC-539-tourisme-saisonnalite.py",
+      "tags": [
+        "tourisme-saisonnalite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-540",
+      "title": "Agroforesterie",
+      "file": "POC-540-agroforesterie.py",
+      "tags": [
+        "agroforesterie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-541",
+      "title": "Apiculture",
+      "file": "POC-541-apiculture.py",
+      "tags": [
+        "apiculture",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-542",
+      "title": "Pêche littorale",
+      "file": "POC-542-peche-littoral.py",
+      "tags": [
+        "peche-littoral",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-543",
+      "title": "Ports & logistique",
+      "file": "POC-543-ports-logistique.py",
+      "tags": [
+        "ports-logistique",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-544",
+      "title": "Maritime SAR",
+      "file": "POC-544-maritime-sar.py",
+      "tags": [
+        "maritime-sar",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-545",
+      "title": "Ferroviaire & ponctualité",
+      "file": "POC-545-ferroviaire-ponctualite.py",
+      "tags": [
+        "ferroviaire-ponctualite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-546",
+      "title": "Aérien & flux",
+      "file": "POC-546-aerien-flux.py",
+      "tags": [
+        "aerien-flux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-547",
+      "title": "Spatial & CubeSats",
+      "file": "POC-547-spatial-cubesat.py",
+      "tags": [
+        "spatial-cubesat",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-548",
+      "title": "Nowcast météo",
+      "file": "POC-548-meteorologie-nowcast.py",
+      "tags": [
+        "meteorologie-nowcast",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-549",
+      "title": "Énergie & stockage",
+      "file": "POC-549-energie-stockage.py",
+      "tags": [
+        "energie-stockage",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-550",
+      "title": "Micro-réseaux",
+      "file": "POC-550-microreseaux.py",
+      "tags": [
+        "microreseaux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-551",
+      "title": "Data protection",
+      "file": "POC-551-data-protect.py",
+      "tags": [
+        "data-protect",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-552",
+      "title": "Open data score",
+      "file": "POC-552-open-data-score.py",
+      "tags": [
+        "open-data-score",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-553",
+      "title": "Élections & info",
+      "file": "POC-553-election-info.py",
+      "tags": [
+        "election-info",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-554",
+      "title": "Citoyenneté active",
+      "file": "POC-554-citoyennete.py",
+      "tags": [
+        "citoyennete",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-555",
+      "title": "Culture & jeux",
+      "file": "POC-555-culture-jeux.py",
+      "tags": [
+        "culture-jeux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-556",
+      "title": "Industrie 4.0",
+      "file": "POC-556-industrie-4-0.py",
+      "tags": [
+        "industrie-4-0",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-557",
+      "title": "Qualité logicielle",
+      "file": "POC-557-qualite-logicielle.py",
+      "tags": [
+        "qualite-logicielle",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-558",
+      "title": "Supply & fret rail",
+      "file": "POC-558-supply-fret-rail.py",
+      "tags": [
+        "supply-fret-rail",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-559",
+      "title": "Marché de l’emploi",
+      "file": "POC-559-marche-emploi.py",
+      "tags": [
+        "marche-emploi",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-560",
+      "title": "Formation accélérée",
+      "file": "POC-560-formation-acceleree.py",
+      "tags": [
+        "formation-acceleree",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-561",
+      "title": "Mobilité inclusive",
+      "file": "POC-561-handi-mobilite.py",
+      "tags": [
+        "handi-mobilite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-562",
+      "title": "Cyber phishing",
+      "file": "POC-562-cyber-phishing.py",
+      "tags": [
+        "cyber-phishing",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-563",
+      "title": "IoT & firmware",
+      "file": "POC-563-iot-firmware.py",
+      "tags": [
+        "iot-firmware",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-564",
+      "title": "Green IT",
+      "file": "POC-564-green-it.py",
+      "tags": [
+        "green-it",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-565",
+      "title": "Économie locale",
+      "file": "POC-565-economie-locale.py",
+      "tags": [
+        "economie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-566",
+      "title": "Communs numériques",
+      "file": "POC-566-communs-num.py",
+      "tags": [
+        "communs-num",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-567",
+      "title": "Biblio santé",
+      "file": "POC-567-bibliosante.py",
+      "tags": [
+        "bibliosante",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-568",
+      "title": "Prospective 10 ans",
+      "file": "POC-568-prospective-10.py",
+      "tags": [
+        "prospective-10",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-569",
+      "title": "Épidémiologie locale",
+      "file": "POC-569-epidemiologie-locale.py",
+      "tags": [
+        "epidemiologie-locale",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-570",
+      "title": "Télémédecine & observance",
+      "file": "POC-570-telemed-observance.py",
+      "tags": [
+        "telemed-observance",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-571",
+      "title": "Pharma usage réel",
+      "file": "POC-571-pharma-usage-reel.py",
+      "tags": [
+        "pharma-usage-reel",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-572",
+      "title": "Urbanisme & tissu actif",
+      "file": "POC-572-urbanisme-tissu.py",
+      "tags": [
+        "urbanisme-tissu",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-573",
+      "title": "Logement & énergie",
+      "file": "POC-573-logement-energie.py",
+      "tags": [
+        "logement-energie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-574",
+      "title": "Mobilité douce",
+      "file": "POC-574-mobilite-douce.py",
+      "tags": [
+        "mobilite-douce",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-575",
+      "title": "Sécheresse",
+      "file": "POC-575-secheresse.py",
+      "tags": [
+        "secheresse",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-576",
+      "title": "Crues & submersions",
+      "file": "POC-576-crues.py",
+      "tags": [
+        "crues",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-577",
+      "title": "Qualité de l’air",
+      "file": "POC-577-qualite-air.py",
+      "tags": [
+        "qualite-air",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-578",
+      "title": "Qualité des sols",
+      "file": "POC-578-qualite-sols.py",
+      "tags": [
+        "qualite-sols",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-579",
+      "title": "Bruit urbain",
+      "file": "POC-579-bruit-urbain.py",
+      "tags": [
+        "bruit-urbain",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-580",
+      "title": "Patrimoine & énergie",
+      "file": "POC-580-patrimoine-ener.py",
+      "tags": [
+        "patrimoine-ener",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-581",
+      "title": "Tourisme & saisonnalité",
+      "file": "POC-581-tourisme-saisonnalite.py",
+      "tags": [
+        "tourisme-saisonnalite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-582",
+      "title": "Agroforesterie",
+      "file": "POC-582-agroforesterie.py",
+      "tags": [
+        "agroforesterie",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-583",
+      "title": "Apiculture",
+      "file": "POC-583-apiculture.py",
+      "tags": [
+        "apiculture",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-584",
+      "title": "Pêche littorale",
+      "file": "POC-584-peche-littoral.py",
+      "tags": [
+        "peche-littoral",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-585",
+      "title": "Ports & logistique",
+      "file": "POC-585-ports-logistique.py",
+      "tags": [
+        "ports-logistique",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-586",
+      "title": "Maritime SAR",
+      "file": "POC-586-maritime-sar.py",
+      "tags": [
+        "maritime-sar",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-587",
+      "title": "Ferroviaire & ponctualité",
+      "file": "POC-587-ferroviaire-ponctualite.py",
+      "tags": [
+        "ferroviaire-ponctualite",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-588",
+      "title": "Aérien & flux",
+      "file": "POC-588-aerien-flux.py",
+      "tags": [
+        "aerien-flux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-589",
+      "title": "Spatial & CubeSats",
+      "file": "POC-589-spatial-cubesat.py",
+      "tags": [
+        "spatial-cubesat",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-590",
+      "title": "Nowcast météo",
+      "file": "POC-590-meteorologie-nowcast.py",
+      "tags": [
+        "meteorologie-nowcast",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-591",
+      "title": "Énergie & stockage",
+      "file": "POC-591-energie-stockage.py",
+      "tags": [
+        "energie-stockage",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-592",
+      "title": "Micro-réseaux",
+      "file": "POC-592-microreseaux.py",
+      "tags": [
+        "microreseaux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-593",
+      "title": "Data protection",
+      "file": "POC-593-data-protect.py",
+      "tags": [
+        "data-protect",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-594",
+      "title": "Open data score",
+      "file": "POC-594-open-data-score.py",
+      "tags": [
+        "open-data-score",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-595",
+      "title": "Élections & info",
+      "file": "POC-595-election-info.py",
+      "tags": [
+        "election-info",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-596",
+      "title": "Citoyenneté active",
+      "file": "POC-596-citoyennete.py",
+      "tags": [
+        "citoyennete",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-597",
+      "title": "Culture & jeux",
+      "file": "POC-597-culture-jeux.py",
+      "tags": [
+        "culture-jeux",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-598",
+      "title": "Industrie 4.0",
+      "file": "POC-598-industrie-4-0.py",
+      "tags": [
+        "industrie-4-0",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-599",
+      "title": "Qualité logicielle",
+      "file": "POC-599-qualite-logicielle.py",
+      "tags": [
+        "qualite-logicielle",
+        "ethic",
+        "demo"
+      ]
+    },
+    {
+      "id": "POC-600",
+      "title": "Supply & fret rail",
+      "file": "POC-600-supply-fret-rail.py",
+      "tags": [
+        "supply-fret-rail",
+        "ethic",
+        "demo"
+      ]
+    }
+  ]
+}
