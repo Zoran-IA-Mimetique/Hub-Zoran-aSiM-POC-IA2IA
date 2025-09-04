@@ -1,0 +1,1 @@
+print('Glyphthète: encodage glyphique compacté')

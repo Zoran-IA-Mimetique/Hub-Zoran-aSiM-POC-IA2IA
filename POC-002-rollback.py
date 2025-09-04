@@ -1,0 +1,1 @@
+print('ΔM11.3 rollback: stabilité restaurée si entropie > seuil')

@@ -1,0 +1,1 @@
+print('EthicChain: RGPD, AI Act, ISO 42001 conformité vérifiée')

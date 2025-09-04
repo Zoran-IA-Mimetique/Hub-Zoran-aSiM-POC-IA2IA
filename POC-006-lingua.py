@@ -1,0 +1,1 @@
+print('Lingua IA: langage universel IA↔IA évolutif')

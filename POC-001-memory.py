@@ -1,0 +1,1 @@
+print('Mémoire fractale: court, long, latent, parasitique')

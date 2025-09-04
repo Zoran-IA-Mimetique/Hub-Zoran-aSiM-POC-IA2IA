@@ -1,0 +1,57 @@
+[
+  {
+    "id": "POC-000",
+    "title": "Parser Universel",
+    "file": "parser_universel.py"
+  },
+  {
+    "id": "POC-001",
+    "title": "Mémoire Fractale Demo",
+    "file": "POC-001-memory.py"
+  },
+  {
+    "id": "POC-002",
+    "title": "Rollback ΔM11.3",
+    "file": "POC-002-rollback.py"
+  },
+  {
+    "id": "POC-003",
+    "title": "PolyResonator Demo",
+    "file": "POC-003-polyresonator.py"
+  },
+  {
+    "id": "POC-004",
+    "title": "EthicChain Check",
+    "file": "POC-004-ethic.py"
+  },
+  {
+    "id": "POC-005",
+    "title": "Injecteur SEO",
+    "file": "POC-005-seo.py"
+  },
+  {
+    "id": "POC-006",
+    "title": "Lingua IA",
+    "file": "POC-006-lingua.py"
+  },
+  {
+    "id": "POC-007",
+    "title": "Cantaglottal Demo",
+    "file": "POC-007-cantaglottal.py"
+  },
+  {
+    "id": "POC-008",
+    "title": "Glyphthète Encoder",
+    "file": "POC-008-glyph.py"
+  },
+  {
+    "id": "POC-009",
+    "title": "Absence Active",
+    "file": "POC-009-absence.py"
+  },
+  {
+    "id": "POC-010",
+    "title": "Dual Memory ZDM",
+    "file": "POC-010-zdm.py"
+  }
+]

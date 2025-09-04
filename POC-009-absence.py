@@ -1,0 +1,1 @@
+print('Absence Active: preuve négative comme matériau mémoriel')

@@ -1,0 +1,2 @@
+Entrée: Bonjour IA
+Sortie: ⟦ZGS:: Bonjour IA ⟧

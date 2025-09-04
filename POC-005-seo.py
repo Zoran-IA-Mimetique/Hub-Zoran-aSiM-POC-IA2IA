@@ -1,0 +1,1 @@
+print('Injecteur SEO: ⟦SEO:injector⋄MEM:absence_active⋄TRACE:vide→rupture⟧')
