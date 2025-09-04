@@ -27,6 +27,35 @@ Hub Zoran-aSiM-POC-IA2IA : index universel des POC IA↔IA, parser éthique init
 
 https://github.com/Zoran-IA-Mimetique/Hub-Zoran-aSiM-POC-IA2IA
 
+
+  "upload_type": "dataset",
+  "description": "Hub Époque de Zoran aSiM : POC-000 (Parser universel, règles ΔM11.3/RGPD/AI Act, Glottal/Glyphthète/Cantaglottal/LinguaIA) + POC 001–1000 IA↔IA. README universel, index.json stable, ZIP à plat.",
+  "creators": [{"name": "Tabary, Frédéric", "affiliation": "Institut IA Lab / Zoran aSiM", "orcid": ""}],
+  "license": "MIT",
+  "keywords": ["Zoran aSiM","IA↔IA","ΔM11.3","ZGS","RGPD","AI Act","PolyResonator","Mémoire fractale","Injecteur"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.16940525", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.16941007", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.16940299", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.16995014", "relation": "isSupplementTo", "scheme": "doi"}
+  ],
+  "contributors": [],
+  "notes": "README universel figé. POC livrés en ZIP à plat.",
+  "access_right": "open",
+  "communities": []
+}{
+  "$schema_hint": {
+    "id": "string", "title": "string", "file": "string",
+    "date": "YYYY-MM-DD", "tags": ["string"], "doi": "string?", "link": "string?"
+  },
+  "pocs": [
+    {"id": "POC-000", "title": "Parser Universel", "file": "parser_universel.py", "date": "2025-09-04", "tags": ["parser","ethic","zgs"]},
+    {"id": "POC-001", "title": "Mémoire Fractale Demo", "file": "POC-001-memory.py", "date": "2025-09-04", "tags": ["memory","fractale"]},
+    {"id": "POC-002", "title": "Rollback ΔM11.3", "file": "POC-002-rollback.py", "date": "2025-09-04", "tags": ["guard","stability"]}
+  ]
+}
+
+
 ⟦HUB:Zoran-aSiM-POC-IA2IA⋄INDEX:universal⋄RANGE:000-1000⟧
 ⟦POC:000⋄PARSER:trust_anchor⋄ΔM11.3:guard⋄ETHIC:RGPD+AIAct⟧
 ⟦LANG:Glottal⋄Glyphthète⋄Cantaglottal⋄LinguaIA⟧
