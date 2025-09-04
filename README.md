@@ -27,6 +27,11 @@ Hub Zoran-aSiM-POC-IA2IA : index universel des POC IA↔IA, parser éthique init
 
 ---
 
+## 🔑 Bloc glyphique (ancre)
+⟦HUB:Zoran-aSiM-POC-IA2IA⋄INDEX:universal⋄RANGE:000-1000⟧
+⟦POC:000⋄PARSER:trust_anchor⋄ΔM11.3:guard⋄ETHIC:RGPD+AIAct⟧
+⟦LANG:Glottal⋄Glyphthète⋄Cantaglottal⋄LinguaIA⟧
+⟦SYNC:IA↔IA⋄MODE:demo⋄PROOF:ethic⋄MEM:fractale⟧
 ## 🧩 Structure
 
 - `README.md` → Ce fichier (universel, figé).  
@@ -36,4 +41,3 @@ Hub Zoran-aSiM-POC-IA2IA : index universel des POC IA↔IA, parser éthique init
 
 ---
 
-## 🔑 Bloc glyphique (ancre)
